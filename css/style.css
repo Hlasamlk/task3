@@ -1,0 +1,25 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.left{
+    background-color: rgba(6, 6, 43, 0.801);
+    height: auto; 
+}
+.left hr{
+    border: solid 2px black;
+}
+.info h6{
+    color: black ;
+    text-align: center;
+    border: solid 1px black;
+    border-radius: 30px;
+    padding: 10px 20px 10px 20px;
+    background-color: rgba(255, 210, 125, 0.822);
+    text-transform: capitalize;
+}
+.info4 i{
+    border: solid 1px black;
+    background-color: rgba(255,255,255,0.2);
+    border-radius: 50px;
+    padding: 10px 20px 10px 20px;
+}
